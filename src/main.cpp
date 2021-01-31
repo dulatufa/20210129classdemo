@@ -1,9 +1,9 @@
 /**
  * @file main.cpp
- * @brief This is a test of CMake, doxygen, and GitHub.
- * @details This is the long brief at the top of main.cpp.
- * @author Seth McNeill
- * @date 1/28/2021
+ * @brief This is class demonstration of using github Tamplates.
+ * @details This project demonstrates Github, Doxygen, and Cmake integration.
+ * @author Bona tufa
+ * @date 1/31/2021
  * 
  */
 
