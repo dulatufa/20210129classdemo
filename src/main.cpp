@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
- * @brief This is class demonstration of using github Tamplates.
- * @details This project demonstrates Github, Doxygen, and Cmake integration.
+ * @brief This is class demonstration of using github Tamplates
+ * @details This project shows Doxygen, cmake , and github pages working together
  * @author Bona tufa
  * @date 1/31/2021
  * 
